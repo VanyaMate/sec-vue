@@ -1,0 +1,33 @@
+{
+    "name": "@vanyamate/sec-vue",
+    "version": "0.0.1",
+    "description": "Support for Vue",
+    "scripts": {
+        "build": "tsc"
+    },
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VanyaMate/sec-vue.git"
+    },
+    "keywords": [
+        "sec",
+        "state",
+        "manager",
+        "vue"
+    ],
+    "author": "Vanya Mate",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/VanyaMate/sec-vue/issues"
+    },
+    "homepage": "https://github.com/VanyaMate/sec-vue#readme",
+    "devDependencies": {
+        "vue": "^3.5.13"
+    },
+    "dependencies": {
+        "@vanyamate/sec": "^0.1.4"
+    }
+}
