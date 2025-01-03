@@ -1,7 +1,7 @@
 {
     "name": "@vanyamate/sec-vue",
-    "version": "0.0.1",
-    "description": "Support for Vue",
+    "version": "0.0.3",
+    "description": "SEC for Vue",
     "scripts": {
         "build": "tsc"
     },
